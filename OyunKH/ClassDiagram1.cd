@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OyunKH.Balon" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Balon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OyunKH.Genel">
+    <Position X="7.5" Y="2.75" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EQAACAAQgCFgAAlACMPekASIEAMJVAIgZDIEAhIAsJA=</HashCode>
+      <FileName>Genel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OyunKH.KirmiziBalon" Collapsed="true">
+    <Position X="5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>KirmiziBalon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OyunKH.Ok" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ok.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OyunKH.Okcu" Collapsed="true">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Okcu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OyunKH.OrtakOzellik" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAMABAAAAAAAAAAAAAAQAAAAIAAAAAAAAACQAAAICAA=</HashCode>
+      <FileName>OrtakOzellik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OyunKH.Oyuncu" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAIAAAACAAEgAAADIAA=</HashCode>
+      <FileName>Oyuncu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OyunKH.SariBalon" Collapsed="true">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SariBalon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OyunKH.YesilBalon" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>YesilBalon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="OyunKH.Yon" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAgBAAAAAAgAAAAA=</HashCode>
+      <FileName>OrtakOzellik.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

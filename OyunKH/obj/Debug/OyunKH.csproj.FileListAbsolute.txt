@@ -1,0 +1,6 @@
+D:\derslerim\yaz okulu 2020\NDP\proje\OyunKH\bin\Debug\OyunKH.dll
+D:\derslerim\yaz okulu 2020\NDP\proje\OyunKH\bin\Debug\OyunKH.pdb
+D:\derslerim\yaz okulu 2020\NDP\proje\OyunKH\obj\Debug\OyunKH.csprojAssemblyReference.cache
+D:\derslerim\yaz okulu 2020\NDP\proje\OyunKH\obj\Debug\OyunKH.csproj.CoreCompileInputs.cache
+D:\derslerim\yaz okulu 2020\NDP\proje\OyunKH\obj\Debug\OyunKH.dll
+D:\derslerim\yaz okulu 2020\NDP\proje\OyunKH\obj\Debug\OyunKH.pdb
